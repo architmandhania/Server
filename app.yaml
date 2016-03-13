@@ -3,8 +3,8 @@
 #  See http://code.google.com/appengine/docs/python/config/appconfig.html
 #  and http://web2py.com/book/default/chapter/11?search=app.yaml
 
-application: yourappname
-version: 1
+application: what-did-i-eat
+version: 2
 api_version: 1
 
 # use these lines for Python 2.7
